@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfront=self.webpackChunkfront||[]).push([[522],{6522:(e,t,l)=>{l.r(t),l.d(t,{default:()=>u});var n=function(){var e=this;return(0,e._self._c)("div",[e._v(e._s(e.knowledgeCatalogId))])};n._withStripped=!0;const r={computed:{knowledgeCatalogId(){return this.$route.query.id}}},u=(0,l(1900).Z)(r,n,[],!1,null,null,null).exports}}]);
